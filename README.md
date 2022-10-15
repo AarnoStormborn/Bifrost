@@ -26,5 +26,11 @@ If you are interested in seeing the project grow, please star the project, it wi
 
 **Contributors**
 
+### Authors
+* Ishan Dandekar
+* Harsh Singh
+* Mansi Katgire
+<br>
+
 <p>
 <img src="https://contrib.rocks/image?repo=ishandandekar/Bifrost" /></p>
